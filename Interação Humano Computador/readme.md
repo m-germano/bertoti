@@ -6,7 +6,11 @@ Na década de 1970, a interação entre humanos e computadores era bastante limi
 
 A entrada de dados era feita por linha de comando ou até mesmo por cartões perfurados, exigindo conhecimento especializado em programação.
 
-📎 Exemplo visual: [Terminal antigo com cartão perfurado](https://upload.wikimedia.org/wikipedia/commons/6/60/IBM_029_Keypunch.jpg)
+![Cartão-perfurado-2](https://github.com/user-attachments/assets/7662ddcd-f50c-454d-b156-16709e76dcad)
+
+> Terminal antigo com cartão perfurado
+
+
 
 A comunicação era unidirecional: o humano dava comandos e o computador devolvia respostas em texto simples. Nessa época, o foco estava na eficiência da máquina, não na experiência do usuário.
 
@@ -18,13 +22,15 @@ Esse período foi marcado pela popularização dos computadores pessoais (PCs) e
 
 ### Computador dos anos 80
 
-📎 Exemplo visual: [Apple Macintosh de 1984](https://upload.wikimedia.org/wikipedia/commons/6/6e/Macintosh_128k_transparency.png)
+![20200124035323](https://github.com/user-attachments/assets/88e1b323-b905-4458-90ce-69320df8d14b)
+> Apple Macintosh de 1984
 
 Com sistemas como Mac OS (1984) e Windows (a partir de 1985), a interação se tornou mais acessível, com ícones, menus, janelas e o uso do mouse. A partir dos anos 1990, a internet também começou a transformar a IHC, exigindo novas formas de navegação e interação.
 
 ### Computador dos anos 90
 
-📎 Exemplo visual: [Windows 95 rodando em um PC clássico](https://upload.wikimedia.org/wikipedia/en/9/92/Windows_95_desktop_screenshot.png)
+![old-pc-windows-95 (1)](https://github.com/user-attachments/assets/7d88e780-7426-4ecf-b39a-e4a8a3bb63ce)
+> Windows 95 rodando em um PC clássico
 
 Surgiram também dispositivos móveis básicos (como PDAs e celulares), mas com interfaces ainda limitadas. A IHC passou a se preocupar mais com a usabilidade e o design centrado no usuário.
 
@@ -38,7 +44,8 @@ A interação passou a ser feita com gestos, toques, voz, e os sistemas ficaram 
 
 Aplicações de realidade aumentada (AR) e realidade virtual (VR) também começaram a se popularizar. A IHC atual é **multimodal**, ou seja, envolve múltiplas formas de interação simultaneamente.
 
-📎 Exemplo visual: [Evolução dos dispositivos móveis](https://upload.wikimedia.org/wikipedia/commons/3/3b/IPhone_evolution_2007-2020.jpg)
+![iPhone-Evolution-History-of-models-768x1024](https://github.com/user-attachments/assets/589224ab-cafb-4b6d-8104-ceb1c5bedab3)
+> Evolução dos Iphones
 
 ---
 
@@ -54,8 +61,14 @@ O futuro da IHC aponta para interfaces ainda mais naturais, imersivas e intelige
 
 A tendência é que a tecnologia desapareça do foco da atenção e a interação se torne mais fluida, natural e integrada ao ambiente.
 
-### Exemplo: Alexa e assistentes virtuais
+### Exemplo: Microsoft HoloLens e computação espacial
 
-📎 Exemplo visual: [Dispositivo Alexa Echo Dot](https://upload.wikimedia.org/wikipedia/commons/e/e7/Amazon_Echo_Dot_%283rd_Gen%29%2C_January_2020.jpg)
+![microsoft_hololens](https://github.com/user-attachments/assets/9761d530-04b1-41ae-b681-5dbdc958ead4)
+> Microsoft HoloLens 
 
-Sistema que permite gerenciar vários aparelhos/computadores na rede, por comando de voz.
+O Microsoft HoloLens é um dispositivo de realidade mista que permite aos usuários interagir com hologramas no ambiente real. Utilizando gestos com as mãos, comandos de voz e movimentos oculares, o usuário pode manipular objetos virtuais como se estivessem presentes fisicamente.
+
+Esse tipo de tecnologia representa um avanço significativo na IHC, pois transforma o ambiente físico em uma interface digital, promovendo uma interação mais imersiva e natural. É muito utilizado em treinamentos médicos, engenharia, design industrial e educação.
+
+![annotate-from-fingertips](https://github.com/user-attachments/assets/8a3ca2a6-9767-457b-ac9a-ce0a501f89c1)
+> Microsoft HoloLens em uso
