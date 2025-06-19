@@ -1,0 +1,3 @@
+browser-use==0.1.45
+python-dotenv==1.1.0
+smolagents @ git+https://github.com/huggingface/smolagents.git@24df5adec79ab2e7d19db298a6f794825ae2e701
